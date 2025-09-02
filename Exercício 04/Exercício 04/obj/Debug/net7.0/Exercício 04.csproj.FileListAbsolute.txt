@@ -1,0 +1,15 @@
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\bin\Debug\net7.0\Exercício 04.exe
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\bin\Debug\net7.0\Exercício 04.deps.json
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\bin\Debug\net7.0\Exercício 04.runtimeconfig.json
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\bin\Debug\net7.0\Exercício 04.dll
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\bin\Debug\net7.0\Exercício 04.pdb
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.csproj.AssemblyReference.cache
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.AssemblyInfoInputs.cache
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.AssemblyInfo.cs
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.csproj.CoreCompileInputs.cache
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.dll
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\refint\Exercício 04.dll
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.pdb
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\Exercício 04.genruntimeconfig.cache
+D:\Atividades - Ana C#\Exercício 04\Exercício 04\obj\Debug\net7.0\ref\Exercício 04.dll
