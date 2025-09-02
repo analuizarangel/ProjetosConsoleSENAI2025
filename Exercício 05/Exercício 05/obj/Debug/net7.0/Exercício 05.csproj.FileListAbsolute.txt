@@ -1,0 +1,15 @@
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\bin\Debug\net7.0\Exercício 05.exe
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\bin\Debug\net7.0\Exercício 05.deps.json
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\bin\Debug\net7.0\Exercício 05.runtimeconfig.json
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\bin\Debug\net7.0\Exercício 05.dll
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\bin\Debug\net7.0\Exercício 05.pdb
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.csproj.AssemblyReference.cache
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.AssemblyInfoInputs.cache
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.AssemblyInfo.cs
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.csproj.CoreCompileInputs.cache
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.dll
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\refint\Exercício 05.dll
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.pdb
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\Exercício 05.genruntimeconfig.cache
+D:\Atividades - Ana C#\Exercício 05\Exercício 05\obj\Debug\net7.0\ref\Exercício 05.dll
