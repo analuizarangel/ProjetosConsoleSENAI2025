@@ -1,0 +1,15 @@
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\bin\Debug\net7.0\Exercício 12.exe
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\bin\Debug\net7.0\Exercício 12.deps.json
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\bin\Debug\net7.0\Exercício 12.runtimeconfig.json
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\bin\Debug\net7.0\Exercício 12.dll
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\bin\Debug\net7.0\Exercício 12.pdb
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.csproj.AssemblyReference.cache
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.AssemblyInfoInputs.cache
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.AssemblyInfo.cs
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.csproj.CoreCompileInputs.cache
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.dll
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\refint\Exercício 12.dll
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.pdb
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\Exercício 12.genruntimeconfig.cache
+D:\Atividades - Ana C#\Exercício 12\Exercício 12\obj\Debug\net7.0\ref\Exercício 12.dll
