@@ -1,0 +1,15 @@
+D:\Atividades - Ana C#\exercício 07\exercício 07\bin\Debug\net7.0\exercício 07.exe
+D:\Atividades - Ana C#\exercício 07\exercício 07\bin\Debug\net7.0\exercício 07.deps.json
+D:\Atividades - Ana C#\exercício 07\exercício 07\bin\Debug\net7.0\exercício 07.runtimeconfig.json
+D:\Atividades - Ana C#\exercício 07\exercício 07\bin\Debug\net7.0\exercício 07.dll
+D:\Atividades - Ana C#\exercício 07\exercício 07\bin\Debug\net7.0\exercício 07.pdb
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.csproj.AssemblyReference.cache
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.AssemblyInfoInputs.cache
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.AssemblyInfo.cs
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.csproj.CoreCompileInputs.cache
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.dll
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\refint\exercício 07.dll
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.pdb
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\exercício 07.genruntimeconfig.cache
+D:\Atividades - Ana C#\exercício 07\exercício 07\obj\Debug\net7.0\ref\exercício 07.dll
